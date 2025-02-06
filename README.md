@@ -1,16 +1,20 @@
-## Hi there 👋
+## 🚀 Misba Ansari - Data Analyst
 
-<!--
-**misba2131/misba2131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! 📌 About Me
+I am a Data Analyst passionate about turning raw data into meaningful insights. Skilled in SQL, Python, Power BI, and Excel, I specialize in data visualization, problem-solving, and leveraging technology to enhance decision-making. With a keen eye for detail and strong adaptability, I thrive in data-driven environments.--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<! 🛠 Skills & Technologies :-
+
+📊 Technical Skills
+- Programming & Data Analysis: Python, SQL
+- Data Visualization: Power BI, Excel
+- Data Handling: Pandas, NumPy
+- Version Control: Git, GitHub
+- AI & Automation: Generative AI
+
+🎯 Soft Skills
+- Problem-Solving
+- Effective Communication
+- Teamwork & Collaboration
+- Adaptability
