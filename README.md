@@ -1,4 +1,5 @@
-## 🚀 Misba Ansari - Data Analyst
+## Hello!
+# 🚀 Misba Ansari - Data Analyst
 
 ## 📌 About Me
 
@@ -7,21 +8,21 @@ I am a Data Analyst passionate about turning raw data into meaningful insights. 
 
 ## 🛠 Skills & Technologies :-
 
-📊 Technical Skills
+### 📊 Technical Skills
 - Programming & Data Analysis: Python, SQL
 - Data Visualization: Power BI, Excel
 - Data Handling: Pandas, NumPy
 - Version Control: Git, GitHub
 
-🎯 Soft Skills
+### 🎯 Soft Skills
 - Problem-Solving
 - Effective Communication
 - Teamwork & Collaboration
 - Adaptability
 
-### 🔥 Projects
+## 🔥 Projects
 
-# 📌 Crime Against Scheduled Castes Across India
+### 📌 Crime Against Scheduled Castes Across India
 Objective: Analyzed crime trends and patterns using Python.
 
 - Conducted Exploratory Data Analysis (EDA) to uncover insights.
@@ -29,7 +30,7 @@ Objective: Analyzed crime trends and patterns using Python.
 - Evaluated the impact of legislative policies on crime rates.
 🔗 Live Project
 
-# 📌 Netflix Data Analysis
+### 📌 Netflix Data Analysis
 Objective: Developed an interactive Power BI dashboard to explore Netflix trends.
 
 - Analyzed content distribution, IMDb ratings, and audience engagement.
