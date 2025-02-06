@@ -12,10 +12,27 @@ I am a Data Analyst passionate about turning raw data into meaningful insights. 
 - Data Visualization: Power BI, Excel
 - Data Handling: Pandas, NumPy
 - Version Control: Git, GitHub
-- AI & Automation: Generative AI
 
 🎯 Soft Skills
 - Problem-Solving
 - Effective Communication
 - Teamwork & Collaboration
 - Adaptability
+
+### 🔥 Projects
+
+# 📌 Crime Against Scheduled Castes Across India
+Objective: Analyzed crime trends and patterns using Python.
+
+- Conducted Exploratory Data Analysis (EDA) to uncover insights.
+- Visualized data with interactive charts and maps.
+- Evaluated the impact of legislative policies on crime rates.
+🔗 Live Project
+
+# 📌 Netflix Data Analysis
+Objective: Developed an interactive Power BI dashboard to explore Netflix trends.
+
+- Analyzed content distribution, IMDb ratings, and audience engagement.
+- Used SQL for data manipulation and insight extraction.
+- Designed dynamic filters for better user interaction.
+
